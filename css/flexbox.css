@@ -1,3 +1,4 @@
+/* Cabeçalho */
 .cabecalhoPrincipal .container {
     display: flex;
     align-items: center;
@@ -8,6 +9,18 @@
     display: flex;
 }
 
+/* Mapa de cursos */
+.rodapePrincipal-navMap-list{
+  display: flex;
+  justify-content: space-between;
+}
+
+.listaCursos{
+  display: flex;
+  flex-direction: column;
+}
+
+/* Rodapé da página*/
 .rodapePrincipal-patrocinadores .container{
     display: flex;
     justify-content: space-between;
@@ -28,3 +41,4 @@
 .rodapePrincipal-contatoForm-fieldset{
     display: flex;
 }
+
