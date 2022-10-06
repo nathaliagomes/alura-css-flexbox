@@ -9,11 +9,37 @@
     display: flex;
 }
 
+/* Nossos cursos */
+
+.conteudoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.conteudoPrincipal-cursos-link {
+    width: 23%;
+    margin: 1%;
+}
+
+.conteudoPrincipal-cursos-link:nth-child(4n) {
+    margin-right: 0;
+}
+
+.conteudoPrincipal-cursos-link:nth-child(4n+1) {
+    margin-left: 0;
+}
+
 /* Mapa de cursos */
 .rodapePrincipal-navMap-list{
   display: flex;
   justify-content: space-between;
 }
+
+/* Outra opção seria:
+    display: flex;
+    flex-flow: column wrap;
+    height: 255px;
+*/
 
 .listaCursos{
   display: flex;
