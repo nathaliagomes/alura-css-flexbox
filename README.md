@@ -7,7 +7,7 @@ A proposta do curso é o desenvolvimento do Alurinha, um gerenciador de cursos o
 (menu, cursos, vídeo, vantagens e rodapé) estão em bloco, um abaixo do outro. O objetivo é aprender a manusear o flexbox enquanto reposicionamos esses elementos. 
 O layout mobile também foi ajustado.
 
-🔗 [Clique aqui para visualizar o resultado final](https://nathaliagomes.github.io/alura-flexbox)
+🔗 [Clique aqui para visualizar o resultado final](https://nathaliagomes.github.io/alura-css-flexbox)
 
 ## 🎯 Objetivos
 
